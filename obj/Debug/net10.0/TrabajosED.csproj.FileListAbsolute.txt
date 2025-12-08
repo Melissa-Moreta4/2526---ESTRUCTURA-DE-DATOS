@@ -12,3 +12,4 @@ C:\Users\HP - i5\OneDrive\Desktop\Ejemplos ED\TrabajosED\obj\Debug\net10.0\refin
 C:\Users\HP - i5\OneDrive\Desktop\Ejemplos ED\TrabajosED\obj\Debug\net10.0\TrabajosED.pdb
 C:\Users\HP - i5\OneDrive\Desktop\Ejemplos ED\TrabajosED\obj\Debug\net10.0\TrabajosED.genruntimeconfig.cache
 C:\Users\HP - i5\OneDrive\Desktop\Ejemplos ED\TrabajosED\obj\Debug\net10.0\ref\TrabajosED.dll
+C:\Users\HP - i5\OneDrive\Desktop\Ejemplos ED\TrabajosED\obj\Debug\net10.0\TrabajosED.sourcelink.json
